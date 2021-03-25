@@ -1,0 +1,16 @@
+body {
+  font-family: 'DotGothic16', sans-serif;
+}
+
+h1 {
+ background: aqua
+}
+
+.bg-pattern {
+    background: url("https://image.freepik.com/free-vector/pixel-art-game-background-grass-sky-clouds_210544-60.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
